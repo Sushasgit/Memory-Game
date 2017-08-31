@@ -15,3 +15,5 @@ You can change Memory Game setup choosing options below. Choose different table 
 * JavaScript
 * Media Queries
 * Semantic elements in markup structure
+## DEMO
+You can view  [DEMO](https://sushasgit.github.io/Memory%20game/)
